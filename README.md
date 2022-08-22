@@ -1,6 +1,13 @@
-# 考勤管理系统1
+# 考勤管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**考勤１** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 考勤管理系统1具有多种角色
 
 - 管理员：管理教师、学生、课程和用户等功能
@@ -8,35 +15,72 @@
 - 学生：请假、查看请假记录、登录、修改、修改密码等
 - 辅导员：审批学生请假
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架： Servlet、mvc模式
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可）
+- maven项目：否 
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026872.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2学生 模块
 
-#### 参与贡献
+![学生-请假](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026912.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![学生-查看某们课程自己的请假记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026546.jpg)
+
+![学生-请假历史记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026560.jpg)
+
+### 4.3教师 模块
+
+![教师-查看班级出勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026611.jpg)
+
+![教师-查看学生出勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026333.jpg)
+
+![教师-录入班级出勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027280.jpg)
+
+![教师-添加学生出勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027881.jpg)
+
+### 4.4 辅导员模块
+
+![辅导员-审批学生请假1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027395.jpg)
+
+![辅导员-审批学生请假2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027920.jpg)
+
+### 4.5 管理员模块
+
+![管理员-查看教师](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027317.jpg)
+
+![管理员-课程查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027671.jpg)
+
+![管理员-学生查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027990.jpg)
+
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081027331.jpg)
+
+###　４.６　文档目录
+
+![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081026605.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**考勤１** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
